@@ -1,0 +1,5 @@
+*.csv
+*.bak-step4
+*.bak-step5
+.DS_Store
+*.pre_*
