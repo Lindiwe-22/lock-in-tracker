@@ -8,6 +8,11 @@
   "orientation": "portrait",
   "background_color": "#241b2f",
   "theme_color": "#241b2f",
+  "screenshots": [
+    { "src": "screenshots/day-narrow.png", "sizes": "780x1688", "type": "image/png", "form_factor": "narrow", "label": "Daily log" },
+    { "src": "screenshots/block-narrow.png", "sizes": "780x1688", "type": "image/png", "form_factor": "narrow", "label": "75-day block" },
+    { "src": "screenshots/block-wide.png", "sizes": "1280x720", "type": "image/png", "form_factor": "wide", "label": "75-day block on desktop" }
+  ],
   "icons": [
     { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
     { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
